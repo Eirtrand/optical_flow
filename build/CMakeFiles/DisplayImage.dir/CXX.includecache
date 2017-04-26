@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/e/Development/Projects/optical_flow/main.cpp
+opencv2/video/tracking.hpp
+/home/e/Development/Projects/optical_flow/opencv2/video/tracking.hpp
+opencv2/imgproc/imgproc.hpp
+/home/e/Development/Projects/optical_flow/opencv2/imgproc/imgproc.hpp
+opencv2/highgui/highgui.hpp
+/home/e/Development/Projects/optical_flow/opencv2/highgui/highgui.hpp
+stdio.h
+-
+iostream
+-
+
